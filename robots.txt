@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://axeios0616.github.io/what-to-charge/sitemap.xml

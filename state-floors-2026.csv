@@ -1,0 +1,664 @@
+trade,slug,state,abbr,occupation,soc,median_wage,costs_per_hour,floor,recommended,margin
+House cleaning,cleaning,Alabama,AL,Maids and Housekeeping Cleaners,37-2012,13.21,4.0,23,29,0.2
+House cleaning,cleaning,Alaska,AK,Maids and Housekeeping Cleaners,37-2012,17.97,4.0,30,37,0.2
+House cleaning,cleaning,Arizona,AZ,Maids and Housekeeping Cleaners,37-2012,17.13,4.0,29,36,0.2
+House cleaning,cleaning,Arkansas,AR,Maids and Housekeeping Cleaners,37-2012,13.44,4.0,23,29,0.2
+House cleaning,cleaning,California,CA,Maids and Housekeeping Cleaners,37-2012,20.51,4.0,33,42,0.2
+House cleaning,cleaning,Colorado,CO,Maids and Housekeeping Cleaners,37-2012,18.06,4.0,30,37,0.2
+House cleaning,cleaning,Connecticut,CT,Maids and Housekeeping Cleaners,37-2012,17.39,4.0,29,36,0.2
+House cleaning,cleaning,Delaware,DE,Maids and Housekeeping Cleaners,37-2012,16.42,4.0,28,34,0.2
+House cleaning,cleaning,District of Columbia,DC,Maids and Housekeeping Cleaners,37-2012,20.32,4.0,33,41,0.2
+House cleaning,cleaning,Florida,FL,Maids and Housekeeping Cleaners,37-2012,16.28,4.0,27,34,0.2
+House cleaning,cleaning,Georgia,GA,Maids and Housekeeping Cleaners,37-2012,14.31,4.0,25,31,0.2
+House cleaning,cleaning,Hawaii,HI,Maids and Housekeeping Cleaners,37-2012,24.81,4.0,40,50,0.2
+House cleaning,cleaning,Idaho,ID,Maids and Housekeeping Cleaners,37-2012,16.62,4.0,28,35,0.2
+House cleaning,cleaning,Illinois,IL,Maids and Housekeeping Cleaners,37-2012,17.49,4.0,29,36,0.2
+House cleaning,cleaning,Indiana,IN,Maids and Housekeeping Cleaners,37-2012,15.11,4.0,26,32,0.2
+House cleaning,cleaning,Iowa,IA,Maids and Housekeeping Cleaners,37-2012,15.68,4.0,27,33,0.2
+House cleaning,cleaning,Kansas,KS,Maids and Housekeeping Cleaners,37-2012,14.95,4.0,25,32,0.2
+House cleaning,cleaning,Kentucky,KY,Maids and Housekeeping Cleaners,37-2012,14.85,4.0,25,32,0.2
+House cleaning,cleaning,Louisiana,LA,Maids and Housekeeping Cleaners,37-2012,12.79,4.0,22,28,0.2
+House cleaning,cleaning,Maine,ME,Maids and Housekeeping Cleaners,37-2012,18.09,4.0,30,37,0.2
+House cleaning,cleaning,Maryland,MD,Maids and Housekeeping Cleaners,37-2012,17.07,4.0,29,36,0.2
+House cleaning,cleaning,Massachusetts,MA,Maids and Housekeeping Cleaners,37-2012,18.73,4.0,31,39,0.2
+House cleaning,cleaning,Michigan,MI,Maids and Housekeeping Cleaners,37-2012,16.66,4.0,28,35,0.2
+House cleaning,cleaning,Minnesota,MN,Maids and Housekeeping Cleaners,37-2012,18.01,4.0,30,37,0.2
+House cleaning,cleaning,Mississippi,MS,Maids and Housekeeping Cleaners,37-2012,12.19,4.0,21,27,0.2
+House cleaning,cleaning,Missouri,MO,Maids and Housekeeping Cleaners,37-2012,16.19,4.0,27,34,0.2
+House cleaning,cleaning,Montana,MT,Maids and Housekeeping Cleaners,37-2012,17.18,4.0,29,36,0.2
+House cleaning,cleaning,Nebraska,NE,Maids and Housekeeping Cleaners,37-2012,16.43,4.0,28,34,0.2
+House cleaning,cleaning,Nevada,NV,Maids and Housekeeping Cleaners,37-2012,22.38,4.0,36,45,0.2
+House cleaning,cleaning,New Hampshire,NH,Maids and Housekeeping Cleaners,37-2012,17.75,4.0,29,37,0.2
+House cleaning,cleaning,New Jersey,NJ,Maids and Housekeeping Cleaners,37-2012,18.26,4.0,30,38,0.2
+House cleaning,cleaning,New Mexico,NM,Maids and Housekeeping Cleaners,37-2012,14.65,4.0,25,31,0.2
+House cleaning,cleaning,New York,NY,Maids and Housekeeping Cleaners,37-2012,20.17,4.0,33,41,0.2
+House cleaning,cleaning,North Carolina,NC,Maids and Housekeeping Cleaners,37-2012,15.05,4.0,26,32,0.2
+House cleaning,cleaning,North Dakota,ND,Maids and Housekeeping Cleaners,37-2012,16.85,4.0,28,35,0.2
+House cleaning,cleaning,Ohio,OH,Maids and Housekeeping Cleaners,37-2012,15.47,4.0,26,33,0.2
+House cleaning,cleaning,Oklahoma,OK,Maids and Housekeeping Cleaners,37-2012,13.76,4.0,24,30,0.2
+House cleaning,cleaning,Oregon,OR,Maids and Housekeeping Cleaners,37-2012,18.07,4.0,30,37,0.2
+House cleaning,cleaning,Pennsylvania,PA,Maids and Housekeeping Cleaners,37-2012,16.29,4.0,27,34,0.2
+House cleaning,cleaning,Rhode Island,RI,Maids and Housekeeping Cleaners,37-2012,18.05,4.0,30,37,0.2
+House cleaning,cleaning,South Carolina,SC,Maids and Housekeeping Cleaners,37-2012,14.55,4.0,25,31,0.2
+House cleaning,cleaning,South Dakota,SD,Maids and Housekeeping Cleaners,37-2012,14.4,4.0,25,31,0.2
+House cleaning,cleaning,Tennessee,TN,Maids and Housekeeping Cleaners,37-2012,14.83,4.0,25,32,0.2
+House cleaning,cleaning,Texas,TX,Maids and Housekeeping Cleaners,37-2012,14.26,4.0,24,31,0.2
+House cleaning,cleaning,Utah,UT,Maids and Housekeeping Cleaners,37-2012,17.44,4.0,29,36,0.2
+House cleaning,cleaning,Vermont,VT,Maids and Housekeeping Cleaners,37-2012,18.12,4.0,30,38,0.2
+House cleaning,cleaning,Virginia,VA,Maids and Housekeeping Cleaners,37-2012,16.26,4.0,27,34,0.2
+House cleaning,cleaning,Washington,WA,Maids and Housekeeping Cleaners,37-2012,20.28,4.0,33,41,0.2
+House cleaning,cleaning,West Virginia,WV,Maids and Housekeeping Cleaners,37-2012,13.51,4.0,23,29,0.2
+House cleaning,cleaning,Wisconsin,WI,Maids and Housekeeping Cleaners,37-2012,17.08,4.0,29,36,0.2
+House cleaning,cleaning,Wyoming,WY,Maids and Housekeeping Cleaners,37-2012,15.32,4.0,26,32,0.2
+Window cleaning,window,Alabama,AL,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.72,4.0,25,31,0.2
+Window cleaning,window,Alaska,AK,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.48,4.0,32,40,0.2
+Window cleaning,window,Arizona,AZ,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.42,4.0,29,36,0.2
+Window cleaning,window,Arkansas,AR,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.3,4.0,25,31,0.2
+Window cleaning,window,California,CA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.75,4.0,32,40,0.2
+Window cleaning,window,Colorado,CO,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.56,4.0,31,38,0.2
+Window cleaning,window,Connecticut,CT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.25,4.0,30,38,0.2
+Window cleaning,window,Delaware,DE,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.98,4.0,28,35,0.2
+Window cleaning,window,District of Columbia,DC,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.52,4.0,31,38,0.2
+Window cleaning,window,Florida,FL,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.58,4.0,28,35,0.2
+Window cleaning,window,Georgia,GA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.5,4.0,28,35,0.2
+Window cleaning,window,Hawaii,HI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.13,4.0,30,38,0.2
+Window cleaning,window,Idaho,ID,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.36,4.0,29,36,0.2
+Window cleaning,window,Illinois,IL,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.18,4.0,30,38,0.2
+Window cleaning,window,Indiana,IN,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.53,4.0,29,36,0.2
+Window cleaning,window,Iowa,IA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.01,4.0,28,36,0.2
+Window cleaning,window,Kansas,KS,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.58,4.0,28,35,0.2
+Window cleaning,window,Kentucky,KY,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,15.54,4.0,26,33,0.2
+Window cleaning,window,Louisiana,LA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,13.91,4.0,24,30,0.2
+Window cleaning,window,Maine,ME,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.72,4.0,31,39,0.2
+Window cleaning,window,Maryland,MD,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.61,4.0,29,37,0.2
+Window cleaning,window,Massachusetts,MA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,21.91,4.0,35,44,0.2
+Window cleaning,window,Michigan,MI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.33,4.0,29,36,0.2
+Window cleaning,window,Minnesota,MN,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.04,4.0,31,39,0.2
+Window cleaning,window,Mississippi,MS,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,13.64,4.0,24,29,0.2
+Window cleaning,window,Missouri,MO,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.26,4.0,29,36,0.2
+Window cleaning,window,Montana,MT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.84,4.0,30,37,0.2
+Window cleaning,window,Nebraska,NE,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.26,4.0,29,36,0.2
+Window cleaning,window,Nevada,NV,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.47,4.0,31,38,0.2
+Window cleaning,window,New Hampshire,NH,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.82,4.0,31,39,0.2
+Window cleaning,window,New Jersey,NJ,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.09,4.0,30,37,0.2
+Window cleaning,window,New Mexico,NM,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.32,4.0,29,36,0.2
+Window cleaning,window,New York,NY,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,20.02,4.0,33,41,0.2
+Window cleaning,window,North Carolina,NC,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.59,4.0,28,35,0.2
+Window cleaning,window,North Dakota,ND,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.15,4.0,30,38,0.2
+Window cleaning,window,Ohio,OH,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.26,4.0,29,36,0.2
+Window cleaning,window,Oklahoma,OK,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.96,4.0,25,32,0.2
+Window cleaning,window,Oregon,OR,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.92,4.0,31,39,0.2
+Window cleaning,window,Pennsylvania,PA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.56,4.0,29,37,0.2
+Window cleaning,window,Rhode Island,RI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.94,4.0,30,37,0.2
+Window cleaning,window,South Carolina,SC,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.99,4.0,26,32,0.2
+Window cleaning,window,South Dakota,SD,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.06,4.0,28,36,0.2
+Window cleaning,window,Tennessee,TN,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.08,4.0,27,34,0.2
+Window cleaning,window,Texas,TX,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,15.87,4.0,27,33,0.2
+Window cleaning,window,Utah,UT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,15.48,4.0,26,33,0.2
+Window cleaning,window,Vermont,VT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.67,4.0,32,40,0.2
+Window cleaning,window,Virginia,VA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.91,4.0,28,35,0.2
+Window cleaning,window,Washington,WA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,21.89,4.0,35,44,0.2
+Window cleaning,window,West Virginia,WV,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.9,4.0,25,32,0.2
+Window cleaning,window,Wisconsin,WI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.79,4.0,30,37,0.2
+Window cleaning,window,Wyoming,WY,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.33,4.0,29,36,0.2
+Carpet cleaning,carpet,Alabama,AL,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.72,11.11,32,40,0.2
+Carpet cleaning,carpet,Alaska,AK,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.48,11.11,39,49,0.2
+Carpet cleaning,carpet,Arizona,AZ,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.42,11.11,36,45,0.2
+Carpet cleaning,carpet,Arkansas,AR,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.3,11.11,32,40,0.2
+Carpet cleaning,carpet,California,CA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.75,11.11,39,49,0.2
+Carpet cleaning,carpet,Colorado,CO,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.56,11.11,38,47,0.2
+Carpet cleaning,carpet,Connecticut,CT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.25,11.11,37,47,0.2
+Carpet cleaning,carpet,Delaware,DE,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.98,11.11,35,44,0.2
+Carpet cleaning,carpet,District of Columbia,DC,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.52,11.11,38,47,0.2
+Carpet cleaning,carpet,Florida,FL,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.58,11.11,35,44,0.2
+Carpet cleaning,carpet,Georgia,GA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.5,11.11,35,43,0.2
+Carpet cleaning,carpet,Hawaii,HI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.13,11.11,37,46,0.2
+Carpet cleaning,carpet,Idaho,ID,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.36,11.11,36,45,0.2
+Carpet cleaning,carpet,Illinois,IL,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.18,11.11,37,47,0.2
+Carpet cleaning,carpet,Indiana,IN,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.53,11.11,36,45,0.2
+Carpet cleaning,carpet,Iowa,IA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.01,11.11,36,44,0.2
+Carpet cleaning,carpet,Kansas,KS,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.58,11.11,35,44,0.2
+Carpet cleaning,carpet,Kentucky,KY,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,15.54,11.11,33,42,0.2
+Carpet cleaning,carpet,Louisiana,LA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,13.91,11.11,31,39,0.2
+Carpet cleaning,carpet,Maine,ME,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.72,11.11,38,47,0.2
+Carpet cleaning,carpet,Maryland,MD,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.61,11.11,36,45,0.2
+Carpet cleaning,carpet,Massachusetts,MA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,21.91,11.11,43,53,0.2
+Carpet cleaning,carpet,Michigan,MI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.33,11.11,36,45,0.2
+Carpet cleaning,carpet,Minnesota,MN,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.04,11.11,38,48,0.2
+Carpet cleaning,carpet,Mississippi,MS,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,13.64,11.11,31,38,0.2
+Carpet cleaning,carpet,Missouri,MO,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.26,11.11,36,45,0.2
+Carpet cleaning,carpet,Montana,MT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.84,11.11,37,46,0.2
+Carpet cleaning,carpet,Nebraska,NE,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.26,11.11,36,45,0.2
+Carpet cleaning,carpet,Nevada,NV,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.47,11.11,38,47,0.2
+Carpet cleaning,carpet,New Hampshire,NH,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.82,11.11,38,48,0.2
+Carpet cleaning,carpet,New Jersey,NJ,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.09,11.11,37,46,0.2
+Carpet cleaning,carpet,New Mexico,NM,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.32,11.11,36,45,0.2
+Carpet cleaning,carpet,New York,NY,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,20.02,11.11,40,50,0.2
+Carpet cleaning,carpet,North Carolina,NC,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.59,11.11,35,44,0.2
+Carpet cleaning,carpet,North Dakota,ND,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.15,11.11,37,46,0.2
+Carpet cleaning,carpet,Ohio,OH,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.26,11.11,36,45,0.2
+Carpet cleaning,carpet,Oklahoma,OK,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.96,11.11,33,41,0.2
+Carpet cleaning,carpet,Oregon,OR,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.92,11.11,38,48,0.2
+Carpet cleaning,carpet,Pennsylvania,PA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.56,11.11,36,45,0.2
+Carpet cleaning,carpet,Rhode Island,RI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.94,11.11,37,46,0.2
+Carpet cleaning,carpet,South Carolina,SC,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.99,11.11,33,41,0.2
+Carpet cleaning,carpet,South Dakota,SD,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.06,11.11,36,44,0.2
+Carpet cleaning,carpet,Tennessee,TN,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.08,11.11,34,43,0.2
+Carpet cleaning,carpet,Texas,TX,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,15.87,11.11,34,42,0.2
+Carpet cleaning,carpet,Utah,UT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,15.48,11.11,33,42,0.2
+Carpet cleaning,carpet,Vermont,VT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.67,11.11,39,49,0.2
+Carpet cleaning,carpet,Virginia,VA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.91,11.11,35,44,0.2
+Carpet cleaning,carpet,Washington,WA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,21.89,11.11,43,53,0.2
+Carpet cleaning,carpet,West Virginia,WV,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.9,11.11,32,41,0.2
+Carpet cleaning,carpet,Wisconsin,WI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.79,11.11,37,46,0.2
+Carpet cleaning,carpet,Wyoming,WY,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.33,11.11,36,45,0.2
+Gutter cleaning,gutter,Alabama,AL,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.72,7.5,29,36,0.2
+Gutter cleaning,gutter,Alaska,AK,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.48,7.5,35,44,0.2
+Gutter cleaning,gutter,Arizona,AZ,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.42,7.5,33,41,0.2
+Gutter cleaning,gutter,Arkansas,AR,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.3,7.5,28,35,0.2
+Gutter cleaning,gutter,California,CA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.75,7.5,36,45,0.2
+Gutter cleaning,gutter,Colorado,CO,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.56,7.5,34,43,0.2
+Gutter cleaning,gutter,Connecticut,CT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.25,7.5,34,42,0.2
+Gutter cleaning,gutter,Delaware,DE,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.98,7.5,32,40,0.2
+Gutter cleaning,gutter,District of Columbia,DC,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.52,7.5,34,43,0.2
+Gutter cleaning,gutter,Florida,FL,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.58,7.5,31,39,0.2
+Gutter cleaning,gutter,Georgia,GA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.5,7.5,31,39,0.2
+Gutter cleaning,gutter,Hawaii,HI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.13,7.5,34,42,0.2
+Gutter cleaning,gutter,Idaho,ID,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.36,7.5,32,41,0.2
+Gutter cleaning,gutter,Illinois,IL,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.18,7.5,34,42,0.2
+Gutter cleaning,gutter,Indiana,IN,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.53,7.5,33,41,0.2
+Gutter cleaning,gutter,Iowa,IA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.01,7.5,32,40,0.2
+Gutter cleaning,gutter,Kansas,KS,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.58,7.5,31,39,0.2
+Gutter cleaning,gutter,Kentucky,KY,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,15.54,7.5,30,37,0.2
+Gutter cleaning,gutter,Louisiana,LA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,13.91,7.5,27,34,0.2
+Gutter cleaning,gutter,Maine,ME,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.72,7.5,34,43,0.2
+Gutter cleaning,gutter,Maryland,MD,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.61,7.5,33,41,0.2
+Gutter cleaning,gutter,Massachusetts,MA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,21.91,7.5,39,49,0.2
+Gutter cleaning,gutter,Michigan,MI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.33,7.5,32,40,0.2
+Gutter cleaning,gutter,Minnesota,MN,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.04,7.5,35,44,0.2
+Gutter cleaning,gutter,Mississippi,MS,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,13.64,7.5,27,34,0.2
+Gutter cleaning,gutter,Missouri,MO,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.26,7.5,32,40,0.2
+Gutter cleaning,gutter,Montana,MT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.84,7.5,33,41,0.2
+Gutter cleaning,gutter,Nebraska,NE,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.26,7.5,32,40,0.2
+Gutter cleaning,gutter,Nevada,NV,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.47,7.5,34,43,0.2
+Gutter cleaning,gutter,New Hampshire,NH,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.82,7.5,35,43,0.2
+Gutter cleaning,gutter,New Jersey,NJ,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.09,7.5,33,42,0.2
+Gutter cleaning,gutter,New Mexico,NM,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.32,7.5,32,40,0.2
+Gutter cleaning,gutter,New York,NY,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,20.02,7.5,36,45,0.2
+Gutter cleaning,gutter,North Carolina,NC,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.59,7.5,31,39,0.2
+Gutter cleaning,gutter,North Dakota,ND,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.15,7.5,34,42,0.2
+Gutter cleaning,gutter,Ohio,OH,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.26,7.5,32,40,0.2
+Gutter cleaning,gutter,Oklahoma,OK,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.96,7.5,29,36,0.2
+Gutter cleaning,gutter,Oregon,OR,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,18.92,7.5,35,43,0.2
+Gutter cleaning,gutter,Pennsylvania,PA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.56,7.5,33,41,0.2
+Gutter cleaning,gutter,Rhode Island,RI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.94,7.5,33,42,0.2
+Gutter cleaning,gutter,South Carolina,SC,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.99,7.5,29,36,0.2
+Gutter cleaning,gutter,South Dakota,SD,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.06,7.5,32,40,0.2
+Gutter cleaning,gutter,Tennessee,TN,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.08,7.5,31,38,0.2
+Gutter cleaning,gutter,Texas,TX,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,15.87,7.5,30,38,0.2
+Gutter cleaning,gutter,Utah,UT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,15.48,7.5,30,37,0.2
+Gutter cleaning,gutter,Vermont,VT,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,19.67,7.5,36,45,0.2
+Gutter cleaning,gutter,Virginia,VA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,16.91,7.5,32,40,0.2
+Gutter cleaning,gutter,Washington,WA,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,21.89,7.5,39,49,0.2
+Gutter cleaning,gutter,West Virginia,WV,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,14.9,7.5,29,36,0.2
+Gutter cleaning,gutter,Wisconsin,WI,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.79,7.5,33,41,0.2
+Gutter cleaning,gutter,Wyoming,WY,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,17.33,7.5,32,40,0.2
+Pressure washing,pressure,Alabama,AL,Cleaners of Vehicles and Equipment,53-7061,14.11,8.89,29,39,0.25
+Pressure washing,pressure,Alaska,AK,Cleaners of Vehicles and Equipment,53-7061,19.33,8.89,37,49,0.25
+Pressure washing,pressure,Arizona,AZ,Cleaners of Vehicles and Equipment,53-7061,17.02,8.89,33,44,0.25
+Pressure washing,pressure,Arkansas,AR,Cleaners of Vehicles and Equipment,53-7061,16.81,8.89,33,44,0.25
+Pressure washing,pressure,California,CA,Cleaners of Vehicles and Equipment,53-7061,18.23,8.89,35,47,0.25
+Pressure washing,pressure,Colorado,CO,Cleaners of Vehicles and Equipment,53-7061,19.04,8.89,36,48,0.25
+Pressure washing,pressure,Connecticut,CT,Cleaners of Vehicles and Equipment,53-7061,17.25,8.89,34,45,0.25
+Pressure washing,pressure,Delaware,DE,Cleaners of Vehicles and Equipment,53-7061,18.0,8.89,35,46,0.25
+Pressure washing,pressure,District of Columbia,DC,Cleaners of Vehicles and Equipment,53-7061,20.53,8.89,38,51,0.25
+Pressure washing,pressure,Florida,FL,Cleaners of Vehicles and Equipment,53-7061,16.05,8.89,32,43,0.25
+Pressure washing,pressure,Georgia,GA,Cleaners of Vehicles and Equipment,53-7061,14.72,8.89,30,40,0.25
+Pressure washing,pressure,Hawaii,HI,Cleaners of Vehicles and Equipment,53-7061,18.06,8.89,35,46,0.25
+Pressure washing,pressure,Idaho,ID,Cleaners of Vehicles and Equipment,53-7061,17.13,8.89,33,45,0.25
+Pressure washing,pressure,Illinois,IL,Cleaners of Vehicles and Equipment,53-7061,17.27,8.89,34,45,0.25
+Pressure washing,pressure,Indiana,IN,Cleaners of Vehicles and Equipment,53-7061,16.8,8.89,33,44,0.25
+Pressure washing,pressure,Iowa,IA,Cleaners of Vehicles and Equipment,53-7061,17.27,8.89,34,45,0.25
+Pressure washing,pressure,Kansas,KS,Cleaners of Vehicles and Equipment,53-7061,17.96,8.89,35,46,0.25
+Pressure washing,pressure,Kentucky,KY,Cleaners of Vehicles and Equipment,53-7061,16.57,8.89,33,44,0.25
+Pressure washing,pressure,Louisiana,LA,Cleaners of Vehicles and Equipment,53-7061,13.27,8.89,28,37,0.25
+Pressure washing,pressure,Maine,ME,Cleaners of Vehicles and Equipment,53-7061,18.0,8.89,35,46,0.25
+Pressure washing,pressure,Maryland,MD,Cleaners of Vehicles and Equipment,53-7061,17.49,8.89,34,45,0.25
+Pressure washing,pressure,Massachusetts,MA,Cleaners of Vehicles and Equipment,53-7061,18.57,8.89,36,47,0.25
+Pressure washing,pressure,Michigan,MI,Cleaners of Vehicles and Equipment,53-7061,16.29,8.89,32,43,0.25
+Pressure washing,pressure,Minnesota,MN,Cleaners of Vehicles and Equipment,53-7061,18.07,8.89,35,46,0.25
+Pressure washing,pressure,Mississippi,MS,Cleaners of Vehicles and Equipment,53-7061,13.77,8.89,29,38,0.25
+Pressure washing,pressure,Missouri,MO,Cleaners of Vehicles and Equipment,53-7061,16.67,8.89,33,44,0.25
+Pressure washing,pressure,Montana,MT,Cleaners of Vehicles and Equipment,53-7061,17.55,8.89,34,45,0.25
+Pressure washing,pressure,Nebraska,NE,Cleaners of Vehicles and Equipment,53-7061,17.87,8.89,35,46,0.25
+Pressure washing,pressure,Nevada,NV,Cleaners of Vehicles and Equipment,53-7061,16.46,8.89,33,43,0.25
+Pressure washing,pressure,New Hampshire,NH,Cleaners of Vehicles and Equipment,53-7061,17.99,8.89,35,46,0.25
+Pressure washing,pressure,New Jersey,NJ,Cleaners of Vehicles and Equipment,53-7061,17.83,8.89,34,46,0.25
+Pressure washing,pressure,New Mexico,NM,Cleaners of Vehicles and Equipment,53-7061,14.57,8.89,30,40,0.25
+Pressure washing,pressure,New York,NY,Cleaners of Vehicles and Equipment,53-7061,18.94,8.89,36,48,0.25
+Pressure washing,pressure,North Carolina,NC,Cleaners of Vehicles and Equipment,53-7061,16.09,8.89,32,43,0.25
+Pressure washing,pressure,North Dakota,ND,Cleaners of Vehicles and Equipment,53-7061,17.93,8.89,35,46,0.25
+Pressure washing,pressure,Ohio,OH,Cleaners of Vehicles and Equipment,53-7061,16.94,8.89,33,44,0.25
+Pressure washing,pressure,Oklahoma,OK,Cleaners of Vehicles and Equipment,53-7061,14.85,8.89,30,40,0.25
+Pressure washing,pressure,Oregon,OR,Cleaners of Vehicles and Equipment,53-7061,18.3,8.89,35,47,0.25
+Pressure washing,pressure,Pennsylvania,PA,Cleaners of Vehicles and Equipment,53-7061,16.66,8.89,33,44,0.25
+Pressure washing,pressure,Rhode Island,RI,Cleaners of Vehicles and Equipment,53-7061,17.95,8.89,35,46,0.25
+Pressure washing,pressure,South Carolina,SC,Cleaners of Vehicles and Equipment,53-7061,16.46,8.89,33,43,0.25
+Pressure washing,pressure,South Dakota,SD,Cleaners of Vehicles and Equipment,53-7061,16.85,8.89,33,44,0.25
+Pressure washing,pressure,Tennessee,TN,Cleaners of Vehicles and Equipment,53-7061,16.8,8.89,33,44,0.25
+Pressure washing,pressure,Texas,TX,Cleaners of Vehicles and Equipment,53-7061,14.16,8.89,29,39,0.25
+Pressure washing,pressure,Utah,UT,Cleaners of Vehicles and Equipment,53-7061,16.78,8.89,33,44,0.25
+Pressure washing,pressure,Vermont,VT,Cleaners of Vehicles and Equipment,53-7061,19.01,8.89,36,48,0.25
+Pressure washing,pressure,Virginia,VA,Cleaners of Vehicles and Equipment,53-7061,16.56,8.89,33,44,0.25
+Pressure washing,pressure,Washington,WA,Cleaners of Vehicles and Equipment,53-7061,19.26,8.89,37,49,0.25
+Pressure washing,pressure,West Virginia,WV,Cleaners of Vehicles and Equipment,53-7061,14.13,8.89,29,39,0.25
+Pressure washing,pressure,Wisconsin,WI,Cleaners of Vehicles and Equipment,53-7061,16.96,8.89,33,44,0.25
+Pressure washing,pressure,Wyoming,WY,Cleaners of Vehicles and Equipment,53-7061,16.29,8.89,32,43,0.25
+Car detailing,detailing,Alabama,AL,Cleaners of Vehicles and Equipment,53-7061,14.11,4.0,24,30,0.2
+Car detailing,detailing,Alaska,AK,Cleaners of Vehicles and Equipment,53-7061,19.33,4.0,32,40,0.2
+Car detailing,detailing,Arizona,AZ,Cleaners of Vehicles and Equipment,53-7061,17.02,4.0,28,36,0.2
+Car detailing,detailing,Arkansas,AR,Cleaners of Vehicles and Equipment,53-7061,16.81,4.0,28,35,0.2
+Car detailing,detailing,California,CA,Cleaners of Vehicles and Equipment,53-7061,18.23,4.0,30,38,0.2
+Car detailing,detailing,Colorado,CO,Cleaners of Vehicles and Equipment,53-7061,19.04,4.0,31,39,0.2
+Car detailing,detailing,Connecticut,CT,Cleaners of Vehicles and Equipment,53-7061,17.25,4.0,29,36,0.2
+Car detailing,detailing,Delaware,DE,Cleaners of Vehicles and Equipment,53-7061,18.0,4.0,30,37,0.2
+Car detailing,detailing,District of Columbia,DC,Cleaners of Vehicles and Equipment,53-7061,20.53,4.0,33,42,0.2
+Car detailing,detailing,Florida,FL,Cleaners of Vehicles and Equipment,53-7061,16.05,4.0,27,34,0.2
+Car detailing,detailing,Georgia,GA,Cleaners of Vehicles and Equipment,53-7061,14.72,4.0,25,31,0.2
+Car detailing,detailing,Hawaii,HI,Cleaners of Vehicles and Equipment,53-7061,18.06,4.0,30,37,0.2
+Car detailing,detailing,Idaho,ID,Cleaners of Vehicles and Equipment,53-7061,17.13,4.0,29,36,0.2
+Car detailing,detailing,Illinois,IL,Cleaners of Vehicles and Equipment,53-7061,17.27,4.0,29,36,0.2
+Car detailing,detailing,Indiana,IN,Cleaners of Vehicles and Equipment,53-7061,16.8,4.0,28,35,0.2
+Car detailing,detailing,Iowa,IA,Cleaners of Vehicles and Equipment,53-7061,17.27,4.0,29,36,0.2
+Car detailing,detailing,Kansas,KS,Cleaners of Vehicles and Equipment,53-7061,17.96,4.0,30,37,0.2
+Car detailing,detailing,Kentucky,KY,Cleaners of Vehicles and Equipment,53-7061,16.57,4.0,28,35,0.2
+Car detailing,detailing,Louisiana,LA,Cleaners of Vehicles and Equipment,53-7061,13.27,4.0,23,29,0.2
+Car detailing,detailing,Maine,ME,Cleaners of Vehicles and Equipment,53-7061,18.0,4.0,30,37,0.2
+Car detailing,detailing,Maryland,MD,Cleaners of Vehicles and Equipment,53-7061,17.49,4.0,29,36,0.2
+Car detailing,detailing,Massachusetts,MA,Cleaners of Vehicles and Equipment,53-7061,18.57,4.0,31,38,0.2
+Car detailing,detailing,Michigan,MI,Cleaners of Vehicles and Equipment,53-7061,16.29,4.0,27,34,0.2
+Car detailing,detailing,Minnesota,MN,Cleaners of Vehicles and Equipment,53-7061,18.07,4.0,30,37,0.2
+Car detailing,detailing,Mississippi,MS,Cleaners of Vehicles and Equipment,53-7061,13.77,4.0,24,30,0.2
+Car detailing,detailing,Missouri,MO,Cleaners of Vehicles and Equipment,53-7061,16.67,4.0,28,35,0.2
+Car detailing,detailing,Montana,MT,Cleaners of Vehicles and Equipment,53-7061,17.55,4.0,29,36,0.2
+Car detailing,detailing,Nebraska,NE,Cleaners of Vehicles and Equipment,53-7061,17.87,4.0,30,37,0.2
+Car detailing,detailing,Nevada,NV,Cleaners of Vehicles and Equipment,53-7061,16.46,4.0,28,35,0.2
+Car detailing,detailing,New Hampshire,NH,Cleaners of Vehicles and Equipment,53-7061,17.99,4.0,30,37,0.2
+Car detailing,detailing,New Jersey,NJ,Cleaners of Vehicles and Equipment,53-7061,17.83,4.0,30,37,0.2
+Car detailing,detailing,New Mexico,NM,Cleaners of Vehicles and Equipment,53-7061,14.57,4.0,25,31,0.2
+Car detailing,detailing,New York,NY,Cleaners of Vehicles and Equipment,53-7061,18.94,4.0,31,39,0.2
+Car detailing,detailing,North Carolina,NC,Cleaners of Vehicles and Equipment,53-7061,16.09,4.0,27,34,0.2
+Car detailing,detailing,North Dakota,ND,Cleaners of Vehicles and Equipment,53-7061,17.93,4.0,30,37,0.2
+Car detailing,detailing,Ohio,OH,Cleaners of Vehicles and Equipment,53-7061,16.94,4.0,28,35,0.2
+Car detailing,detailing,Oklahoma,OK,Cleaners of Vehicles and Equipment,53-7061,14.85,4.0,25,32,0.2
+Car detailing,detailing,Oregon,OR,Cleaners of Vehicles and Equipment,53-7061,18.3,4.0,30,38,0.2
+Car detailing,detailing,Pennsylvania,PA,Cleaners of Vehicles and Equipment,53-7061,16.66,4.0,28,35,0.2
+Car detailing,detailing,Rhode Island,RI,Cleaners of Vehicles and Equipment,53-7061,17.95,4.0,30,37,0.2
+Car detailing,detailing,South Carolina,SC,Cleaners of Vehicles and Equipment,53-7061,16.46,4.0,28,35,0.2
+Car detailing,detailing,South Dakota,SD,Cleaners of Vehicles and Equipment,53-7061,16.85,4.0,28,35,0.2
+Car detailing,detailing,Tennessee,TN,Cleaners of Vehicles and Equipment,53-7061,16.8,4.0,28,35,0.2
+Car detailing,detailing,Texas,TX,Cleaners of Vehicles and Equipment,53-7061,14.16,4.0,24,30,0.2
+Car detailing,detailing,Utah,UT,Cleaners of Vehicles and Equipment,53-7061,16.78,4.0,28,35,0.2
+Car detailing,detailing,Vermont,VT,Cleaners of Vehicles and Equipment,53-7061,19.01,4.0,31,39,0.2
+Car detailing,detailing,Virginia,VA,Cleaners of Vehicles and Equipment,53-7061,16.56,4.0,28,35,0.2
+Car detailing,detailing,Washington,WA,Cleaners of Vehicles and Equipment,53-7061,19.26,4.0,32,40,0.2
+Car detailing,detailing,West Virginia,WV,Cleaners of Vehicles and Equipment,53-7061,14.13,4.0,24,30,0.2
+Car detailing,detailing,Wisconsin,WI,Cleaners of Vehicles and Equipment,53-7061,16.96,4.0,28,35,0.2
+Car detailing,detailing,Wyoming,WY,Cleaners of Vehicles and Equipment,53-7061,16.29,4.0,27,34,0.2
+Lawn care,lawn,Alabama,AL,Landscaping and Groundskeeping Workers,37-3011,17.13,5.0,30,37,0.2
+Lawn care,lawn,Alaska,AK,Landscaping and Groundskeeping Workers,37-3011,22.93,5.0,38,47,0.2
+Lawn care,lawn,Arizona,AZ,Landscaping and Groundskeeping Workers,37-3011,18.71,5.0,32,40,0.2
+Lawn care,lawn,Arkansas,AR,Landscaping and Groundskeeping Workers,37-3011,17.2,5.0,30,37,0.2
+Lawn care,lawn,California,CA,Landscaping and Groundskeeping Workers,37-3011,21.9,5.0,36,46,0.2
+Lawn care,lawn,Colorado,CO,Landscaping and Groundskeeping Workers,37-3011,22.0,5.0,37,46,0.2
+Lawn care,lawn,Connecticut,CT,Landscaping and Groundskeeping Workers,37-3011,21.99,5.0,37,46,0.2
+Lawn care,lawn,Delaware,DE,Landscaping and Groundskeeping Workers,37-3011,17.96,5.0,31,38,0.2
+Lawn care,lawn,District of Columbia,DC,Landscaping and Groundskeeping Workers,37-3011,23.46,5.0,39,48,0.2
+Lawn care,lawn,Florida,FL,Landscaping and Groundskeeping Workers,37-3011,17.84,5.0,31,38,0.2
+Lawn care,lawn,Georgia,GA,Landscaping and Groundskeeping Workers,37-3011,18.25,5.0,31,39,0.2
+Lawn care,lawn,Hawaii,HI,Landscaping and Groundskeeping Workers,37-3011,22.08,5.0,37,46,0.2
+Lawn care,lawn,Idaho,ID,Landscaping and Groundskeeping Workers,37-3011,20.0,5.0,34,42,0.2
+Lawn care,lawn,Illinois,IL,Landscaping and Groundskeeping Workers,37-3011,21.05,5.0,35,44,0.2
+Lawn care,lawn,Indiana,IN,Landscaping and Groundskeeping Workers,37-3011,18.3,5.0,31,39,0.2
+Lawn care,lawn,Iowa,IA,Landscaping and Groundskeeping Workers,37-3011,18.71,5.0,32,40,0.2
+Lawn care,lawn,Kansas,KS,Landscaping and Groundskeeping Workers,37-3011,18.91,5.0,32,40,0.2
+Lawn care,lawn,Kentucky,KY,Landscaping and Groundskeeping Workers,37-3011,17.63,5.0,30,38,0.2
+Lawn care,lawn,Louisiana,LA,Landscaping and Groundskeeping Workers,37-3011,16.76,5.0,29,36,0.2
+Lawn care,lawn,Maine,ME,Landscaping and Groundskeeping Workers,37-3011,22.1,5.0,37,46,0.2
+Lawn care,lawn,Maryland,MD,Landscaping and Groundskeeping Workers,37-3011,18.93,5.0,32,40,0.2
+Lawn care,lawn,Massachusetts,MA,Landscaping and Groundskeeping Workers,37-3011,23.4,5.0,39,48,0.2
+Lawn care,lawn,Michigan,MI,Landscaping and Groundskeeping Workers,37-3011,18.33,5.0,31,39,0.2
+Lawn care,lawn,Minnesota,MN,Landscaping and Groundskeeping Workers,37-3011,22.41,5.0,37,46,0.2
+Lawn care,lawn,Mississippi,MS,Landscaping and Groundskeeping Workers,37-3011,15.21,5.0,27,34,0.2
+Lawn care,lawn,Missouri,MO,Landscaping and Groundskeeping Workers,37-3011,18.52,5.0,32,39,0.2
+Lawn care,lawn,Montana,MT,Landscaping and Groundskeeping Workers,37-3011,21.8,5.0,36,45,0.2
+Lawn care,lawn,Nebraska,NE,Landscaping and Groundskeeping Workers,37-3011,18.82,5.0,32,40,0.2
+Lawn care,lawn,Nevada,NV,Landscaping and Groundskeeping Workers,37-3011,18.66,5.0,32,40,0.2
+Lawn care,lawn,New Hampshire,NH,Landscaping and Groundskeeping Workers,37-3011,21.58,5.0,36,45,0.2
+Lawn care,lawn,New Jersey,NJ,Landscaping and Groundskeeping Workers,37-3011,19.88,5.0,34,42,0.2
+Lawn care,lawn,New Mexico,NM,Landscaping and Groundskeeping Workers,37-3011,18.06,5.0,31,39,0.2
+Lawn care,lawn,New York,NY,Landscaping and Groundskeeping Workers,37-3011,21.56,5.0,36,45,0.2
+Lawn care,lawn,North Carolina,NC,Landscaping and Groundskeeping Workers,37-3011,18.22,5.0,31,39,0.2
+Lawn care,lawn,North Dakota,ND,Landscaping and Groundskeeping Workers,37-3011,19.61,5.0,33,41,0.2
+Lawn care,lawn,Ohio,OH,Landscaping and Groundskeeping Workers,37-3011,18.38,5.0,31,39,0.2
+Lawn care,lawn,Oklahoma,OK,Landscaping and Groundskeeping Workers,37-3011,17.2,5.0,30,37,0.2
+Lawn care,lawn,Oregon,OR,Landscaping and Groundskeeping Workers,37-3011,21.65,5.0,36,45,0.2
+Lawn care,lawn,Pennsylvania,PA,Landscaping and Groundskeeping Workers,37-3011,18.99,5.0,32,40,0.2
+Lawn care,lawn,Rhode Island,RI,Landscaping and Groundskeeping Workers,37-3011,21.51,5.0,36,45,0.2
+Lawn care,lawn,South Carolina,SC,Landscaping and Groundskeeping Workers,37-3011,17.65,5.0,30,38,0.2
+Lawn care,lawn,South Dakota,SD,Landscaping and Groundskeeping Workers,37-3011,17.01,5.0,29,37,0.2
+Lawn care,lawn,Tennessee,TN,Landscaping and Groundskeeping Workers,37-3011,17.8,5.0,31,38,0.2
+Lawn care,lawn,Texas,TX,Landscaping and Groundskeeping Workers,37-3011,17.66,5.0,30,38,0.2
+Lawn care,lawn,Utah,UT,Landscaping and Groundskeeping Workers,37-3011,19.59,5.0,33,41,0.2
+Lawn care,lawn,Vermont,VT,Landscaping and Groundskeeping Workers,37-3011,22.23,5.0,37,46,0.2
+Lawn care,lawn,Virginia,VA,Landscaping and Groundskeeping Workers,37-3011,18.46,5.0,31,39,0.2
+Lawn care,lawn,Washington,WA,Landscaping and Groundskeeping Workers,37-3011,22.57,5.0,37,47,0.2
+Lawn care,lawn,West Virginia,WV,Landscaping and Groundskeeping Workers,37-3011,15.5,5.0,27,34,0.2
+Lawn care,lawn,Wisconsin,WI,Landscaping and Groundskeeping Workers,37-3011,19.82,5.0,33,42,0.2
+Lawn care,lawn,Wyoming,WY,Landscaping and Groundskeeping Workers,37-3011,18.42,5.0,31,39,0.2
+Snow removal,snow,Alabama,AL,Landscaping and Groundskeeping Workers,37-3011,17.13,8.33,33,41,0.2
+Snow removal,snow,Alaska,AK,Landscaping and Groundskeeping Workers,37-3011,22.93,8.33,41,52,0.2
+Snow removal,snow,Arizona,AZ,Landscaping and Groundskeeping Workers,37-3011,18.71,8.33,35,44,0.2
+Snow removal,snow,Arkansas,AR,Landscaping and Groundskeeping Workers,37-3011,17.2,8.33,33,41,0.2
+Snow removal,snow,California,CA,Landscaping and Groundskeeping Workers,37-3011,21.9,8.33,40,50,0.2
+Snow removal,snow,Colorado,CO,Landscaping and Groundskeeping Workers,37-3011,22.0,8.33,40,50,0.2
+Snow removal,snow,Connecticut,CT,Landscaping and Groundskeeping Workers,37-3011,21.99,8.33,40,50,0.2
+Snow removal,snow,Delaware,DE,Landscaping and Groundskeeping Workers,37-3011,17.96,8.33,34,43,0.2
+Snow removal,snow,District of Columbia,DC,Landscaping and Groundskeeping Workers,37-3011,23.46,8.33,42,53,0.2
+Snow removal,snow,Florida,FL,Landscaping and Groundskeeping Workers,37-3011,17.84,8.33,34,42,0.2
+Snow removal,snow,Georgia,GA,Landscaping and Groundskeeping Workers,37-3011,18.25,8.33,35,43,0.2
+Snow removal,snow,Hawaii,HI,Landscaping and Groundskeeping Workers,37-3011,22.08,8.33,40,50,0.2
+Snow removal,snow,Idaho,ID,Landscaping and Groundskeeping Workers,37-3011,20.0,8.33,37,46,0.2
+Snow removal,snow,Illinois,IL,Landscaping and Groundskeeping Workers,37-3011,21.05,8.33,39,48,0.2
+Snow removal,snow,Indiana,IN,Landscaping and Groundskeeping Workers,37-3011,18.3,8.33,35,43,0.2
+Snow removal,snow,Iowa,IA,Landscaping and Groundskeeping Workers,37-3011,18.71,8.33,35,44,0.2
+Snow removal,snow,Kansas,KS,Landscaping and Groundskeeping Workers,37-3011,18.91,8.33,35,44,0.2
+Snow removal,snow,Kentucky,KY,Landscaping and Groundskeeping Workers,37-3011,17.63,8.33,34,42,0.2
+Snow removal,snow,Louisiana,LA,Landscaping and Groundskeeping Workers,37-3011,16.76,8.33,32,40,0.2
+Snow removal,snow,Maine,ME,Landscaping and Groundskeeping Workers,37-3011,22.1,8.33,40,50,0.2
+Snow removal,snow,Maryland,MD,Landscaping and Groundskeeping Workers,37-3011,18.93,8.33,36,44,0.2
+Snow removal,snow,Massachusetts,MA,Landscaping and Groundskeeping Workers,37-3011,23.4,8.33,42,52,0.2
+Snow removal,snow,Michigan,MI,Landscaping and Groundskeeping Workers,37-3011,18.33,8.33,35,43,0.2
+Snow removal,snow,Minnesota,MN,Landscaping and Groundskeeping Workers,37-3011,22.41,8.33,40,51,0.2
+Snow removal,snow,Mississippi,MS,Landscaping and Groundskeeping Workers,37-3011,15.21,8.33,30,38,0.2
+Snow removal,snow,Missouri,MO,Landscaping and Groundskeeping Workers,37-3011,18.52,8.33,35,44,0.2
+Snow removal,snow,Montana,MT,Landscaping and Groundskeeping Workers,37-3011,21.8,8.33,40,50,0.2
+Snow removal,snow,Nebraska,NE,Landscaping and Groundskeeping Workers,37-3011,18.82,8.33,35,44,0.2
+Snow removal,snow,Nevada,NV,Landscaping and Groundskeeping Workers,37-3011,18.66,8.33,35,44,0.2
+Snow removal,snow,New Hampshire,NH,Landscaping and Groundskeeping Workers,37-3011,21.58,8.33,39,49,0.2
+Snow removal,snow,New Jersey,NJ,Landscaping and Groundskeeping Workers,37-3011,19.88,8.33,37,46,0.2
+Snow removal,snow,New Mexico,NM,Landscaping and Groundskeeping Workers,37-3011,18.06,8.33,34,43,0.2
+Snow removal,snow,New York,NY,Landscaping and Groundskeeping Workers,37-3011,21.56,8.33,39,49,0.2
+Snow removal,snow,North Carolina,NC,Landscaping and Groundskeeping Workers,37-3011,18.22,8.33,34,43,0.2
+Snow removal,snow,North Dakota,ND,Landscaping and Groundskeeping Workers,37-3011,19.61,8.33,36,46,0.2
+Snow removal,snow,Ohio,OH,Landscaping and Groundskeeping Workers,37-3011,18.38,8.33,35,43,0.2
+Snow removal,snow,Oklahoma,OK,Landscaping and Groundskeeping Workers,37-3011,17.2,8.33,33,41,0.2
+Snow removal,snow,Oregon,OR,Landscaping and Groundskeeping Workers,37-3011,21.65,8.33,39,49,0.2
+Snow removal,snow,Pennsylvania,PA,Landscaping and Groundskeeping Workers,37-3011,18.99,8.33,36,44,0.2
+Snow removal,snow,Rhode Island,RI,Landscaping and Groundskeeping Workers,37-3011,21.51,8.33,39,49,0.2
+Snow removal,snow,South Carolina,SC,Landscaping and Groundskeeping Workers,37-3011,17.65,8.33,34,42,0.2
+Snow removal,snow,South Dakota,SD,Landscaping and Groundskeeping Workers,37-3011,17.01,8.33,33,41,0.2
+Snow removal,snow,Tennessee,TN,Landscaping and Groundskeeping Workers,37-3011,17.8,8.33,34,42,0.2
+Snow removal,snow,Texas,TX,Landscaping and Groundskeeping Workers,37-3011,17.66,8.33,34,42,0.2
+Snow removal,snow,Utah,UT,Landscaping and Groundskeeping Workers,37-3011,19.59,8.33,36,46,0.2
+Snow removal,snow,Vermont,VT,Landscaping and Groundskeeping Workers,37-3011,22.23,8.33,40,50,0.2
+Snow removal,snow,Virginia,VA,Landscaping and Groundskeeping Workers,37-3011,18.46,8.33,35,44,0.2
+Snow removal,snow,Washington,WA,Landscaping and Groundskeeping Workers,37-3011,22.57,8.33,41,51,0.2
+Snow removal,snow,West Virginia,WV,Landscaping and Groundskeeping Workers,37-3011,15.5,8.33,31,38,0.2
+Snow removal,snow,Wisconsin,WI,Landscaping and Groundskeeping Workers,37-3011,19.82,8.33,37,46,0.2
+Snow removal,snow,Wyoming,WY,Landscaping and Groundskeeping Workers,37-3011,18.42,8.33,35,43,0.2
+Christmas light installation,lights,Alabama,AL,Landscaping and Groundskeeping Workers,37-3011,17.13,6.25,31,41,0.25
+Christmas light installation,lights,Alaska,AK,Landscaping and Groundskeeping Workers,37-3011,22.93,6.25,39,52,0.25
+Christmas light installation,lights,Arizona,AZ,Landscaping and Groundskeeping Workers,37-3011,18.71,6.25,33,44,0.25
+Christmas light installation,lights,Arkansas,AR,Landscaping and Groundskeeping Workers,37-3011,17.2,6.25,31,41,0.25
+Christmas light installation,lights,California,CA,Landscaping and Groundskeeping Workers,37-3011,21.9,6.25,38,50,0.25
+Christmas light installation,lights,Colorado,CO,Landscaping and Groundskeeping Workers,37-3011,22.0,6.25,38,50,0.25
+Christmas light installation,lights,Connecticut,CT,Landscaping and Groundskeeping Workers,37-3011,21.99,6.25,38,50,0.25
+Christmas light installation,lights,Delaware,DE,Landscaping and Groundskeeping Workers,37-3011,17.96,6.25,32,43,0.25
+Christmas light installation,lights,District of Columbia,DC,Landscaping and Groundskeeping Workers,37-3011,23.46,6.25,40,53,0.25
+Christmas light installation,lights,Florida,FL,Landscaping and Groundskeeping Workers,37-3011,17.84,6.25,32,42,0.25
+Christmas light installation,lights,Georgia,GA,Landscaping and Groundskeeping Workers,37-3011,18.25,6.25,32,43,0.25
+Christmas light installation,lights,Hawaii,HI,Landscaping and Groundskeeping Workers,37-3011,22.08,6.25,38,51,0.25
+Christmas light installation,lights,Idaho,ID,Landscaping and Groundskeeping Workers,37-3011,20.0,6.25,35,47,0.25
+Christmas light installation,lights,Illinois,IL,Landscaping and Groundskeeping Workers,37-3011,21.05,6.25,36,49,0.25
+Christmas light installation,lights,Indiana,IN,Landscaping and Groundskeeping Workers,37-3011,18.3,6.25,33,43,0.25
+Christmas light installation,lights,Iowa,IA,Landscaping and Groundskeeping Workers,37-3011,18.71,6.25,33,44,0.25
+Christmas light installation,lights,Kansas,KS,Landscaping and Groundskeeping Workers,37-3011,18.91,6.25,33,45,0.25
+Christmas light installation,lights,Kentucky,KY,Landscaping and Groundskeeping Workers,37-3011,17.63,6.25,32,42,0.25
+Christmas light installation,lights,Louisiana,LA,Landscaping and Groundskeeping Workers,37-3011,16.76,6.25,30,40,0.25
+Christmas light installation,lights,Maine,ME,Landscaping and Groundskeeping Workers,37-3011,22.1,6.25,38,51,0.25
+Christmas light installation,lights,Maryland,MD,Landscaping and Groundskeeping Workers,37-3011,18.93,6.25,33,45,0.25
+Christmas light installation,lights,Massachusetts,MA,Landscaping and Groundskeeping Workers,37-3011,23.4,6.25,40,53,0.25
+Christmas light installation,lights,Michigan,MI,Landscaping and Groundskeeping Workers,37-3011,18.33,6.25,33,43,0.25
+Christmas light installation,lights,Minnesota,MN,Landscaping and Groundskeeping Workers,37-3011,22.41,6.25,38,51,0.25
+Christmas light installation,lights,Mississippi,MS,Landscaping and Groundskeeping Workers,37-3011,15.21,6.25,28,37,0.25
+Christmas light installation,lights,Missouri,MO,Landscaping and Groundskeeping Workers,37-3011,18.52,6.25,33,44,0.25
+Christmas light installation,lights,Montana,MT,Landscaping and Groundskeeping Workers,37-3011,21.8,6.25,38,50,0.25
+Christmas light installation,lights,Nebraska,NE,Landscaping and Groundskeeping Workers,37-3011,18.82,6.25,33,44,0.25
+Christmas light installation,lights,Nevada,NV,Landscaping and Groundskeeping Workers,37-3011,18.66,6.25,33,44,0.25
+Christmas light installation,lights,New Hampshire,NH,Landscaping and Groundskeeping Workers,37-3011,21.58,6.25,37,50,0.25
+Christmas light installation,lights,New Jersey,NJ,Landscaping and Groundskeeping Workers,37-3011,19.88,6.25,35,46,0.25
+Christmas light installation,lights,New Mexico,NM,Landscaping and Groundskeeping Workers,37-3011,18.06,6.25,32,43,0.25
+Christmas light installation,lights,New York,NY,Landscaping and Groundskeeping Workers,37-3011,21.56,6.25,37,50,0.25
+Christmas light installation,lights,North Carolina,NC,Landscaping and Groundskeeping Workers,37-3011,18.22,6.25,32,43,0.25
+Christmas light installation,lights,North Dakota,ND,Landscaping and Groundskeeping Workers,37-3011,19.61,6.25,34,46,0.25
+Christmas light installation,lights,Ohio,OH,Landscaping and Groundskeeping Workers,37-3011,18.38,6.25,33,44,0.25
+Christmas light installation,lights,Oklahoma,OK,Landscaping and Groundskeeping Workers,37-3011,17.2,6.25,31,41,0.25
+Christmas light installation,lights,Oregon,OR,Landscaping and Groundskeeping Workers,37-3011,21.65,6.25,37,50,0.25
+Christmas light installation,lights,Pennsylvania,PA,Landscaping and Groundskeeping Workers,37-3011,18.99,6.25,34,45,0.25
+Christmas light installation,lights,Rhode Island,RI,Landscaping and Groundskeeping Workers,37-3011,21.51,6.25,37,49,0.25
+Christmas light installation,lights,South Carolina,SC,Landscaping and Groundskeeping Workers,37-3011,17.65,6.25,32,42,0.25
+Christmas light installation,lights,South Dakota,SD,Landscaping and Groundskeeping Workers,37-3011,17.01,6.25,31,41,0.25
+Christmas light installation,lights,Tennessee,TN,Landscaping and Groundskeeping Workers,37-3011,17.8,6.25,32,42,0.25
+Christmas light installation,lights,Texas,TX,Landscaping and Groundskeeping Workers,37-3011,17.66,6.25,32,42,0.25
+Christmas light installation,lights,Utah,UT,Landscaping and Groundskeeping Workers,37-3011,19.59,6.25,34,46,0.25
+Christmas light installation,lights,Vermont,VT,Landscaping and Groundskeeping Workers,37-3011,22.23,6.25,38,51,0.25
+Christmas light installation,lights,Virginia,VA,Landscaping and Groundskeeping Workers,37-3011,18.46,6.25,33,44,0.25
+Christmas light installation,lights,Washington,WA,Landscaping and Groundskeeping Workers,37-3011,22.57,6.25,39,52,0.25
+Christmas light installation,lights,West Virginia,WV,Landscaping and Groundskeeping Workers,37-3011,15.5,6.25,28,38,0.25
+Christmas light installation,lights,Wisconsin,WI,Landscaping and Groundskeeping Workers,37-3011,19.82,6.25,35,46,0.25
+Christmas light installation,lights,Wyoming,WY,Landscaping and Groundskeeping Workers,37-3011,18.42,6.25,33,44,0.25
+House painting,painting,Alabama,AL,"Painters, Construction and Maintenance",47-2141,21.12,6.67,37,49,0.25
+House painting,painting,Alaska,AK,"Painters, Construction and Maintenance",47-2141,29.32,6.67,49,65,0.25
+House painting,painting,Arizona,AZ,"Painters, Construction and Maintenance",47-2141,23.2,6.67,40,53,0.25
+House painting,painting,Arkansas,AR,"Painters, Construction and Maintenance",47-2141,19.28,6.67,34,46,0.25
+House painting,painting,California,CA,"Painters, Construction and Maintenance",47-2141,28.38,6.67,47,63,0.25
+House painting,painting,Colorado,CO,"Painters, Construction and Maintenance",47-2141,25.47,6.67,43,58,0.25
+House painting,painting,Connecticut,CT,"Painters, Construction and Maintenance",47-2141,28.12,6.67,47,63,0.25
+House painting,painting,Delaware,DE,"Painters, Construction and Maintenance",47-2141,28.14,6.67,47,63,0.25
+House painting,painting,District of Columbia,DC,"Painters, Construction and Maintenance",47-2141,28.61,6.67,48,64,0.25
+House painting,painting,Florida,FL,"Painters, Construction and Maintenance",47-2141,22.85,6.67,39,53,0.25
+House painting,painting,Georgia,GA,"Painters, Construction and Maintenance",47-2141,23.24,6.67,40,53,0.25
+House painting,painting,Hawaii,HI,"Painters, Construction and Maintenance",47-2141,32.8,6.67,54,72,0.25
+House painting,painting,Idaho,ID,"Painters, Construction and Maintenance",47-2141,21.58,6.67,38,50,0.25
+House painting,painting,Illinois,IL,"Painters, Construction and Maintenance",47-2141,29.45,6.67,49,65,0.25
+House painting,painting,Indiana,IN,"Painters, Construction and Maintenance",47-2141,24.16,6.67,41,55,0.25
+House painting,painting,Iowa,IA,"Painters, Construction and Maintenance",47-2141,23.9,6.67,41,55,0.25
+House painting,painting,Kansas,KS,"Painters, Construction and Maintenance",47-2141,21.88,6.67,38,51,0.25
+House painting,painting,Kentucky,KY,"Painters, Construction and Maintenance",47-2141,23.13,6.67,40,53,0.25
+House painting,painting,Louisiana,LA,"Painters, Construction and Maintenance",47-2141,22.31,6.67,39,52,0.25
+House painting,painting,Maine,ME,"Painters, Construction and Maintenance",47-2141,28.5,6.67,48,63,0.25
+House painting,painting,Maryland,MD,"Painters, Construction and Maintenance",47-2141,23.62,6.67,41,54,0.25
+House painting,painting,Massachusetts,MA,"Painters, Construction and Maintenance",47-2141,27.65,6.67,46,62,0.25
+House painting,painting,Michigan,MI,"Painters, Construction and Maintenance",47-2141,24.35,6.67,42,55,0.25
+House painting,painting,Minnesota,MN,"Painters, Construction and Maintenance",47-2141,27.54,6.67,46,62,0.25
+House painting,painting,Mississippi,MS,"Painters, Construction and Maintenance",47-2141,21.54,6.67,38,50,0.25
+House painting,painting,Missouri,MO,"Painters, Construction and Maintenance",47-2141,27.65,6.67,46,62,0.25
+House painting,painting,Montana,MT,"Painters, Construction and Maintenance",47-2141,28.03,6.67,47,63,0.25
+House painting,painting,Nebraska,NE,"Painters, Construction and Maintenance",47-2141,22.73,6.67,39,52,0.25
+House painting,painting,Nevada,NV,"Painters, Construction and Maintenance",47-2141,27.11,6.67,46,61,0.25
+House painting,painting,New Hampshire,NH,"Painters, Construction and Maintenance",47-2141,23.88,6.67,41,55,0.25
+House painting,painting,New Jersey,NJ,"Painters, Construction and Maintenance",47-2141,28.49,6.67,48,63,0.25
+House painting,painting,New Mexico,NM,"Painters, Construction and Maintenance",47-2141,22.23,6.67,39,51,0.25
+House painting,painting,New York,NY,"Painters, Construction and Maintenance",47-2141,28.64,6.67,48,64,0.25
+House painting,painting,North Carolina,NC,"Painters, Construction and Maintenance",47-2141,21.21,6.67,37,49,0.25
+House painting,painting,North Dakota,ND,"Painters, Construction and Maintenance",47-2141,26.38,6.67,45,59,0.25
+House painting,painting,Ohio,OH,"Painters, Construction and Maintenance",47-2141,23.77,6.67,41,54,0.25
+House painting,painting,Oklahoma,OK,"Painters, Construction and Maintenance",47-2141,21.59,6.67,38,50,0.25
+House painting,painting,Oregon,OR,"Painters, Construction and Maintenance",47-2141,23.51,6.67,40,54,0.25
+House painting,painting,Pennsylvania,PA,"Painters, Construction and Maintenance",47-2141,25.06,6.67,43,57,0.25
+House painting,painting,Rhode Island,RI,"Painters, Construction and Maintenance",47-2141,20.0,6.67,35,47,0.25
+House painting,painting,South Carolina,SC,"Painters, Construction and Maintenance",47-2141,19.64,6.67,35,46,0.25
+House painting,painting,South Dakota,SD,"Painters, Construction and Maintenance",47-2141,23.15,6.67,40,53,0.25
+House painting,painting,Tennessee,TN,"Painters, Construction and Maintenance",47-2141,20.78,6.67,36,49,0.25
+House painting,painting,Texas,TX,"Painters, Construction and Maintenance",47-2141,21.86,6.67,38,51,0.25
+House painting,painting,Utah,UT,"Painters, Construction and Maintenance",47-2141,22.14,6.67,38,51,0.25
+House painting,painting,Vermont,VT,"Painters, Construction and Maintenance",47-2141,25.54,6.67,43,58,0.25
+House painting,painting,Virginia,VA,"Painters, Construction and Maintenance",47-2141,22.82,6.67,39,53,0.25
+House painting,painting,Washington,WA,"Painters, Construction and Maintenance",47-2141,28.68,6.67,48,64,0.25
+House painting,painting,West Virginia,WV,"Painters, Construction and Maintenance",47-2141,21.26,6.67,37,50,0.25
+House painting,painting,Wisconsin,WI,"Painters, Construction and Maintenance",47-2141,24.08,6.67,41,55,0.25
+House painting,painting,Wyoming,WY,"Painters, Construction and Maintenance",47-2141,22.7,6.67,39,52,0.25
+Handyman,handyman,Alabama,AL,"Maintenance and Repair Workers, General",49-9071,20.97,5.0,35,44,0.2
+Handyman,handyman,Alaska,AK,"Maintenance and Repair Workers, General",49-9071,28.97,5.0,47,58,0.2
+Handyman,handyman,Arizona,AZ,"Maintenance and Repair Workers, General",49-9071,22.9,5.0,38,47,0.2
+Handyman,handyman,Arkansas,AR,"Maintenance and Repair Workers, General",49-9071,20.87,5.0,35,44,0.2
+Handyman,handyman,California,CA,"Maintenance and Repair Workers, General",49-9071,27.41,5.0,44,55,0.2
+Handyman,handyman,Colorado,CO,"Maintenance and Repair Workers, General",49-9071,24.65,5.0,40,50,0.2
+Handyman,handyman,Connecticut,CT,"Maintenance and Repair Workers, General",49-9071,27.7,5.0,45,56,0.2
+Handyman,handyman,Delaware,DE,"Maintenance and Repair Workers, General",49-9071,24.11,5.0,40,50,0.2
+Handyman,handyman,District of Columbia,DC,"Maintenance and Repair Workers, General",49-9071,29.0,5.0,47,58,0.2
+Handyman,handyman,Florida,FL,"Maintenance and Repair Workers, General",49-9071,22.15,5.0,37,46,0.2
+Handyman,handyman,Georgia,GA,"Maintenance and Repair Workers, General",49-9071,22.92,5.0,38,47,0.2
+Handyman,handyman,Hawaii,HI,"Maintenance and Repair Workers, General",49-9071,27.86,5.0,45,56,0.2
+Handyman,handyman,Idaho,ID,"Maintenance and Repair Workers, General",49-9071,23.17,5.0,38,48,0.2
+Handyman,handyman,Illinois,IL,"Maintenance and Repair Workers, General",49-9071,27.27,5.0,44,55,0.2
+Handyman,handyman,Indiana,IN,"Maintenance and Repair Workers, General",49-9071,23.99,5.0,39,49,0.2
+Handyman,handyman,Iowa,IA,"Maintenance and Repair Workers, General",49-9071,25.08,5.0,41,51,0.2
+Handyman,handyman,Kansas,KS,"Maintenance and Repair Workers, General",49-9071,22.7,5.0,38,47,0.2
+Handyman,handyman,Kentucky,KY,"Maintenance and Repair Workers, General",49-9071,22.5,5.0,37,47,0.2
+Handyman,handyman,Louisiana,LA,"Maintenance and Repair Workers, General",49-9071,21.13,5.0,35,44,0.2
+Handyman,handyman,Maine,ME,"Maintenance and Repair Workers, General",49-9071,23.76,5.0,39,49,0.2
+Handyman,handyman,Maryland,MD,"Maintenance and Repair Workers, General",49-9071,24.76,5.0,41,51,0.2
+Handyman,handyman,Massachusetts,MA,"Maintenance and Repair Workers, General",49-9071,28.04,5.0,45,57,0.2
+Handyman,handyman,Michigan,MI,"Maintenance and Repair Workers, General",49-9071,22.87,5.0,38,47,0.2
+Handyman,handyman,Minnesota,MN,"Maintenance and Repair Workers, General",49-9071,28.46,5.0,46,57,0.2
+Handyman,handyman,Mississippi,MS,"Maintenance and Repair Workers, General",49-9071,21.32,5.0,36,45,0.2
+Handyman,handyman,Missouri,MO,"Maintenance and Repair Workers, General",49-9071,23.26,5.0,38,48,0.2
+Handyman,handyman,Montana,MT,"Maintenance and Repair Workers, General",49-9071,22.54,5.0,37,47,0.2
+Handyman,handyman,Nebraska,NE,"Maintenance and Repair Workers, General",49-9071,24.38,5.0,40,50,0.2
+Handyman,handyman,Nevada,NV,"Maintenance and Repair Workers, General",49-9071,25.17,5.0,41,51,0.2
+Handyman,handyman,New Hampshire,NH,"Maintenance and Repair Workers, General",49-9071,25.4,5.0,41,52,0.2
+Handyman,handyman,New Jersey,NJ,"Maintenance and Repair Workers, General",49-9071,26.35,5.0,43,54,0.2
+Handyman,handyman,New Mexico,NM,"Maintenance and Repair Workers, General",49-9071,22.0,5.0,37,46,0.2
+Handyman,handyman,New York,NY,"Maintenance and Repair Workers, General",49-9071,27.79,5.0,45,56,0.2
+Handyman,handyman,North Carolina,NC,"Maintenance and Repair Workers, General",49-9071,23.03,5.0,38,48,0.2
+Handyman,handyman,North Dakota,ND,"Maintenance and Repair Workers, General",49-9071,23.96,5.0,39,49,0.2
+Handyman,handyman,Ohio,OH,"Maintenance and Repair Workers, General",49-9071,25.68,5.0,42,52,0.2
+Handyman,handyman,Oklahoma,OK,"Maintenance and Repair Workers, General",49-9071,20.55,5.0,34,43,0.2
+Handyman,handyman,Oregon,OR,"Maintenance and Repair Workers, General",49-9071,26.13,5.0,43,53,0.2
+Handyman,handyman,Pennsylvania,PA,"Maintenance and Repair Workers, General",49-9071,23.7,5.0,39,49,0.2
+Handyman,handyman,Rhode Island,RI,"Maintenance and Repair Workers, General",49-9071,24.47,5.0,40,50,0.2
+Handyman,handyman,South Carolina,SC,"Maintenance and Repair Workers, General",49-9071,23.02,5.0,38,48,0.2
+Handyman,handyman,South Dakota,SD,"Maintenance and Repair Workers, General",49-9071,23.13,5.0,38,48,0.2
+Handyman,handyman,Tennessee,TN,"Maintenance and Repair Workers, General",49-9071,22.71,5.0,38,47,0.2
+Handyman,handyman,Texas,TX,"Maintenance and Repair Workers, General",49-9071,22.44,5.0,37,47,0.2
+Handyman,handyman,Utah,UT,"Maintenance and Repair Workers, General",49-9071,24.26,5.0,40,50,0.2
+Handyman,handyman,Vermont,VT,"Maintenance and Repair Workers, General",49-9071,26.69,5.0,43,54,0.2
+Handyman,handyman,Virginia,VA,"Maintenance and Repair Workers, General",49-9071,23.79,5.0,39,49,0.2
+Handyman,handyman,Washington,WA,"Maintenance and Repair Workers, General",49-9071,28.44,5.0,46,57,0.2
+Handyman,handyman,West Virginia,WV,"Maintenance and Repair Workers, General",49-9071,18.7,5.0,32,40,0.2
+Handyman,handyman,Wisconsin,WI,"Maintenance and Repair Workers, General",49-9071,26.83,5.0,44,54,0.2
+Handyman,handyman,Wyoming,WY,"Maintenance and Repair Workers, General",49-9071,23.03,5.0,38,48,0.2
+Pet sitting and dog walking,pet,Alabama,AL,Animal Caretakers,39-2021,13.62,1.5,21,25,0.15
+Pet sitting and dog walking,pet,Alaska,AK,Animal Caretakers,39-2021,17.61,1.5,27,32,0.15
+Pet sitting and dog walking,pet,Arizona,AZ,Animal Caretakers,39-2021,18.35,1.5,28,33,0.15
+Pet sitting and dog walking,pet,Arkansas,AR,Animal Caretakers,39-2021,14.54,1.5,22,26,0.15
+Pet sitting and dog walking,pet,California,CA,Animal Caretakers,39-2021,18.6,1.5,28,33,0.15
+Pet sitting and dog walking,pet,Colorado,CO,Animal Caretakers,39-2021,18.0,1.5,27,32,0.15
+Pet sitting and dog walking,pet,Connecticut,CT,Animal Caretakers,39-2021,17.94,1.5,27,32,0.15
+Pet sitting and dog walking,pet,Delaware,DE,Animal Caretakers,39-2021,16.3,1.5,25,29,0.15
+Pet sitting and dog walking,pet,District of Columbia,DC,Animal Caretakers,39-2021,21.25,1.5,32,38,0.15
+Pet sitting and dog walking,pet,Florida,FL,Animal Caretakers,39-2021,16.42,1.5,25,29,0.15
+Pet sitting and dog walking,pet,Georgia,GA,Animal Caretakers,39-2021,14.36,1.5,22,26,0.15
+Pet sitting and dog walking,pet,Hawaii,HI,Animal Caretakers,39-2021,19.29,1.5,29,34,0.15
+Pet sitting and dog walking,pet,Idaho,ID,Animal Caretakers,39-2021,15.47,1.5,24,28,0.15
+Pet sitting and dog walking,pet,Illinois,IL,Animal Caretakers,39-2021,17.1,1.5,26,31,0.15
+Pet sitting and dog walking,pet,Indiana,IN,Animal Caretakers,39-2021,14.42,1.5,22,26,0.15
+Pet sitting and dog walking,pet,Iowa,IA,Animal Caretakers,39-2021,14.46,1.5,22,26,0.15
+Pet sitting and dog walking,pet,Kansas,KS,Animal Caretakers,39-2021,14.34,1.5,22,26,0.15
+Pet sitting and dog walking,pet,Kentucky,KY,Animal Caretakers,39-2021,14.77,1.5,23,27,0.15
+Pet sitting and dog walking,pet,Louisiana,LA,Animal Caretakers,39-2021,13.42,1.5,21,24,0.15
+Pet sitting and dog walking,pet,Maine,ME,Animal Caretakers,39-2021,17.9,1.5,27,32,0.15
+Pet sitting and dog walking,pet,Maryland,MD,Animal Caretakers,39-2021,17.68,1.5,27,32,0.15
+Pet sitting and dog walking,pet,Massachusetts,MA,Animal Caretakers,39-2021,19.06,1.5,29,34,0.15
+Pet sitting and dog walking,pet,Michigan,MI,Animal Caretakers,39-2021,14.58,1.5,22,26,0.15
+Pet sitting and dog walking,pet,Minnesota,MN,Animal Caretakers,39-2021,17.51,1.5,27,31,0.15
+Pet sitting and dog walking,pet,Mississippi,MS,Animal Caretakers,39-2021,12.97,1.5,20,24,0.15
+Pet sitting and dog walking,pet,Missouri,MO,Animal Caretakers,39-2021,15.02,1.5,23,27,0.15
+Pet sitting and dog walking,pet,Montana,MT,Animal Caretakers,39-2021,16.45,1.5,25,30,0.15
+Pet sitting and dog walking,pet,Nebraska,NE,Animal Caretakers,39-2021,15.23,1.5,23,27,0.15
+Pet sitting and dog walking,pet,Nevada,NV,Animal Caretakers,39-2021,14.58,1.5,22,26,0.15
+Pet sitting and dog walking,pet,New Hampshire,NH,Animal Caretakers,39-2021,16.73,1.5,26,30,0.15
+Pet sitting and dog walking,pet,New Jersey,NJ,Animal Caretakers,39-2021,17.24,1.5,26,31,0.15
+Pet sitting and dog walking,pet,New Mexico,NM,Animal Caretakers,39-2021,16.14,1.5,25,29,0.15
+Pet sitting and dog walking,pet,New York,NY,Animal Caretakers,39-2021,18.19,1.5,28,32,0.15
+Pet sitting and dog walking,pet,North Carolina,NC,Animal Caretakers,39-2021,14.84,1.5,23,27,0.15
+Pet sitting and dog walking,pet,North Dakota,ND,Animal Caretakers,39-2021,16.37,1.5,25,29,0.15
+Pet sitting and dog walking,pet,Ohio,OH,Animal Caretakers,39-2021,14.57,1.5,22,26,0.15
+Pet sitting and dog walking,pet,Oklahoma,OK,Animal Caretakers,39-2021,13.92,1.5,21,25,0.15
+Pet sitting and dog walking,pet,Oregon,OR,Animal Caretakers,39-2021,17.59,1.5,27,31,0.15
+Pet sitting and dog walking,pet,Pennsylvania,PA,Animal Caretakers,39-2021,15.08,1.5,23,27,0.15
+Pet sitting and dog walking,pet,Rhode Island,RI,Animal Caretakers,39-2021,17.85,1.5,27,32,0.15
+Pet sitting and dog walking,pet,South Carolina,SC,Animal Caretakers,39-2021,15.04,1.5,23,27,0.15
+Pet sitting and dog walking,pet,South Dakota,SD,Animal Caretakers,39-2021,14.61,1.5,22,26,0.15
+Pet sitting and dog walking,pet,Tennessee,TN,Animal Caretakers,39-2021,14.69,1.5,23,27,0.15
+Pet sitting and dog walking,pet,Texas,TX,Animal Caretakers,39-2021,15.74,1.5,24,28,0.15
+Pet sitting and dog walking,pet,Utah,UT,Animal Caretakers,39-2021,16.71,1.5,25,30,0.15
+Pet sitting and dog walking,pet,Vermont,VT,Animal Caretakers,39-2021,17.35,1.5,26,31,0.15
+Pet sitting and dog walking,pet,Virginia,VA,Animal Caretakers,39-2021,16.53,1.5,25,30,0.15
+Pet sitting and dog walking,pet,Washington,WA,Animal Caretakers,39-2021,19.51,1.5,30,35,0.15
+Pet sitting and dog walking,pet,West Virginia,WV,Animal Caretakers,39-2021,13.73,1.5,21,25,0.15
+Pet sitting and dog walking,pet,Wisconsin,WI,Animal Caretakers,39-2021,14.5,1.5,22,26,0.15
+Pet sitting and dog walking,pet,Wyoming,WY,Animal Caretakers,39-2021,13.98,1.5,22,25,0.15
+Junk removal (2-person crew),junk,Alabama,AL,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,17.63,15.0,66,82,0.2
+Junk removal (2-person crew),junk,Alaska,AK,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.4,15.0,76,96,0.2
+Junk removal (2-person crew),junk,Arizona,AZ,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.29,15.0,76,95,0.2
+Junk removal (2-person crew),junk,Arkansas,AR,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,17.27,15.0,65,81,0.2
+Junk removal (2-person crew),junk,California,CA,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.5,15.0,77,96,0.2
+Junk removal (2-person crew),junk,Colorado,CO,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.81,15.0,78,97,0.2
+Junk removal (2-person crew),junk,Connecticut,CT,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,20.98,15.0,75,94,0.2
+Junk removal (2-person crew),junk,Delaware,DE,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,17.94,15.0,66,83,0.2
+Junk removal (2-person crew),junk,District of Columbia,DC,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.99,15.0,78,98,0.2
+Junk removal (2-person crew),junk,Florida,FL,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.35,15.0,68,85,0.2
+Junk removal (2-person crew),junk,Georgia,GA,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.5,15.0,68,85,0.2
+Junk removal (2-person crew),junk,Hawaii,HI,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.21,15.0,76,95,0.2
+Junk removal (2-person crew),junk,Idaho,ID,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,19.18,15.0,70,88,0.2
+Junk removal (2-person crew),junk,Illinois,IL,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,19.5,15.0,71,89,0.2
+Junk removal (2-person crew),junk,Indiana,IN,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,19.87,15.0,72,90,0.2
+Junk removal (2-person crew),junk,Iowa,IA,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,20.91,15.0,75,94,0.2
+Junk removal (2-person crew),junk,Kansas,KS,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,19.35,15.0,71,88,0.2
+Junk removal (2-person crew),junk,Kentucky,KY,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,20.56,15.0,74,93,0.2
+Junk removal (2-person crew),junk,Louisiana,LA,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,16.99,15.0,64,80,0.2
+Junk removal (2-person crew),junk,Maine,ME,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,20.5,15.0,74,92,0.2
+Junk removal (2-person crew),junk,Maryland,MD,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,20.0,15.0,72,91,0.2
+Junk removal (2-person crew),junk,Massachusetts,MA,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.6,15.0,77,96,0.2
+Junk removal (2-person crew),junk,Michigan,MI,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.68,15.0,69,86,0.2
+Junk removal (2-person crew),junk,Minnesota,MN,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,22.25,15.0,79,99,0.2
+Junk removal (2-person crew),junk,Mississippi,MS,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,17.5,15.0,65,82,0.2
+Junk removal (2-person crew),junk,Missouri,MO,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.79,15.0,69,86,0.2
+Junk removal (2-person crew),junk,Montana,MT,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.08,15.0,76,94,0.2
+Junk removal (2-person crew),junk,Nebraska,NE,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,20.63,15.0,74,93,0.2
+Junk removal (2-person crew),junk,Nevada,NV,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.92,15.0,69,87,0.2
+Junk removal (2-person crew),junk,New Hampshire,NH,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,20.25,15.0,73,91,0.2
+Junk removal (2-person crew),junk,New Jersey,NJ,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,19.01,15.0,70,87,0.2
+Junk removal (2-person crew),junk,New Mexico,NM,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,17.9,15.0,66,83,0.2
+Junk removal (2-person crew),junk,New York,NY,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.46,15.0,77,96,0.2
+Junk removal (2-person crew),junk,North Carolina,NC,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.38,15.0,68,85,0.2
+Junk removal (2-person crew),junk,North Dakota,ND,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.97,15.0,78,98,0.2
+Junk removal (2-person crew),junk,Ohio,OH,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.97,15.0,69,87,0.2
+Junk removal (2-person crew),junk,Oklahoma,OK,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,17.78,15.0,66,83,0.2
+Junk removal (2-person crew),junk,Oregon,OR,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.52,15.0,77,96,0.2
+Junk removal (2-person crew),junk,Pennsylvania,PA,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,20.43,15.0,74,92,0.2
+Junk removal (2-person crew),junk,Rhode Island,RI,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,20.05,15.0,73,91,0.2
+Junk removal (2-person crew),junk,South Carolina,SC,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.04,15.0,67,83,0.2
+Junk removal (2-person crew),junk,South Dakota,SD,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.74,15.0,69,86,0.2
+Junk removal (2-person crew),junk,Tennessee,TN,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.35,15.0,68,85,0.2
+Junk removal (2-person crew),junk,Texas,TX,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.05,15.0,67,84,0.2
+Junk removal (2-person crew),junk,Utah,UT,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,20.37,15.0,73,92,0.2
+Junk removal (2-person crew),junk,Vermont,VT,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.94,15.0,69,87,0.2
+Junk removal (2-person crew),junk,Virginia,VA,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.94,15.0,69,87,0.2
+Junk removal (2-person crew),junk,Washington,WA,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,22.21,15.0,79,98,0.2
+Junk removal (2-person crew),junk,West Virginia,WV,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,17.79,15.0,66,83,0.2
+Junk removal (2-person crew),junk,Wisconsin,WI,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,21.45,15.0,77,96,0.2
+Junk removal (2-person crew),junk,Wyoming,WY,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,18.43,15.0,68,85,0.2
